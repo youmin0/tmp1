@@ -1,3 +1,3 @@
 function f(){
-  alert("111");
+  alert("222");
 }
